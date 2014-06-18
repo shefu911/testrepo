@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+this is a personal file of me
+=======
+Ishq tera tadpave...:)
+>>>>>>> 813e3e48b34bb4dbc29827ecb8cd32df9fb8ea71
